@@ -1,6 +1,6 @@
 
-[![Github Visitors](https://visitor-badge.glitch.me/badge?page_id=shihray.visitor-badge)](https://github.com/JianLiu666)
-[![Github Followers](https://img.shields.io/github/followers/shihray?label=follow&style=social)](https://github.com/JianLiu666)
+[![Github Visitors](https://visitor-badge.glitch.me/badge?page_id=shihray.visitor-badge)](https://github.com/shihray)
+[![Github Followers](https://img.shields.io/github/followers/shihray?label=follow&style=social)](https://github.com/shihray)
 
 >If you are doing your best,you will not have to worry about failure
 https://shihray.github.io/resume/
